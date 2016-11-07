@@ -1,0 +1,14 @@
+{
+  "name": "making_http_requests",
+  "version": "1.0.0",
+  "description": "Lighthouse, Week 2, Day 1, Exercise 2 - Making HTTP requests using the request HTTP client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Behzad",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.78.0"
+  }
+}
